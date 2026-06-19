@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="260" viewBox="0 0 260 260">
+<defs>
+<radialGradient id="g" cx="50%" cy="50%" r="60%"><stop offset="0%" stop-color="#f9df91"/><stop offset="100%" stop-color="#8b1e2d"/></radialGradient>
+</defs>
+<rect width="260" height="260" rx="34" fill="#1d3557"/>
+<path d="M130 18 L154 62 L202 55 L174 95 L212 130 L174 165 L202 205 L154 198 L130 242 L106 198 L58 205 L86 165 L48 130 L86 95 L58 55 L106 62 Z" fill="url(#g)" stroke="#fff2cc" stroke-width="5"/>
+<circle cx="130" cy="130" r="58" fill="#fff8ee" stroke="#c9a227" stroke-width="5"/>
+<text x="130" y="125" text-anchor="middle" font-size="48" font-family="Georgia,serif" font-weight="700" fill="#8b1e2d">KR</text>
+<text x="130" y="153" text-anchor="middle" font-size="15" font-family="Arial,sans-serif" letter-spacing="3" fill="#1d3557">RUGS</text>
+</svg>
