@@ -1,7 +1,20 @@
 Keshmiri Rugs Website
+======================
 
-WhatsApp is connected to: +989128692978
+This is the updated colorful traditional Persian rug website.
 
-Open index.html to preview the website.
+Files:
+- index.html
+- assets/style.css
+- assets/script.js
+- assets/logo.svg
+- assets/hero-rug.svg
+- categories/*.html
 
-To change WhatsApp later, edit assets/script.js and change WHATSAPP_NUMBER.
+Important:
+Open assets/script.js and replace:
+XXXXXXXXXXX
+
+with your real WhatsApp number in international format without +.
+Example:
+989121234567

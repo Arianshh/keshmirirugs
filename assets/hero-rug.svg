@@ -1,14 +1,2 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
-<defs>
-<linearGradient id="bg" x1="0" x2="1"><stop stop-color="#8b1e2d"/><stop offset=".45" stop-color="#1d3557"/><stop offset="1" stop-color="#163b2e"/></linearGradient>
-<pattern id="p" width="90" height="90" patternUnits="userSpaceOnUse"><path d="M45 5 L85 45 L45 85 L5 45 Z" fill="none" stroke="#f1cf75" stroke-width="4"/><circle cx="45" cy="45" r="8" fill="#f1cf75"/></pattern>
-</defs>
-<rect width="1400" height="900" fill="url(#bg)"/>
-<rect x="80" y="80" width="1240" height="740" rx="42" fill="#8b1e2d" stroke="#f8e8b0" stroke-width="18"/>
-<rect x="150" y="150" width="1100" height="600" rx="24" fill="#fff3d4"/>
-<rect x="190" y="190" width="1020" height="520" rx="16" fill="#1d3557"/>
-<rect x="220" y="220" width="960" height="460" fill="url(#p)" opacity=".9"/>
-<circle cx="700" cy="450" r="145" fill="#8b1e2d" stroke="#f8e8b0" stroke-width="14"/>
-<path d="M700 285 L743 407 L872 407 L768 482 L808 605 L700 529 L592 605 L632 482 L528 407 L657 407 Z" fill="#f8e8b0"/>
-<text x="700" y="850" text-anchor="middle" fill="#fff8ee" font-size="48" font-family="Georgia,serif">Handmade Persian Rugs</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="920" viewBox="0 0 1600 920">
+<defs><linearGradient id="room" x1="0" x2="1"><stop stop-color="#f7ead7"/><stop offset=".45" stop-color="#d7b27f"/><stop offset="1" stop-color="#6d3a20"/></linearGradient><pattern id="rug" width="120" height="120" patternUnits="userSpaceOnUse"><rect width="120" height="120" fill="#081827"/><path d="M60 8 112 60 60 112 8 60Z" fill="#7d1018" stroke="#d5aa62" stroke-width="5"/><circle cx="60" cy="60" r="20" fill="#d8b36a"/><path d="M0 0h120v120H0z" fill="none" stroke="#eed3a3" stroke-width="8"/></pattern><linearGradient id="fade" x1="0" x2="1"><stop stop-color="#fffaf2" stop-opacity=".92"/><stop offset=".55" stop-color="#fffaf2" stop-opacity=".25"/><stop offset="1" stop-color="#fffaf2" stop-opacity="0"/></linearGradient></defs><rect width="1600" height="920" fill="url(#room)"/><rect x="0" y="0" width="1600" height="920" fill="#fff6e8" opacity=".15"/><rect x="830" y="80" width="250" height="360" fill="#6d3a20" opacity=".5"/><rect x="1130" y="100" width="270" height="260" rx="20" fill="#402010" opacity=".45"/><circle cx="1040" cy="380" r="80" fill="#70401e" opacity=".75"/><rect x="560" y="360" width="1000" height="470" rx="18" fill="url(#rug)" transform="skewX(-12) rotate(-3 1000 600)"/><rect x="530" y="330" width="1060" height="530" rx="22" fill="none" stroke="#d2aa62" stroke-width="18" transform="skewX(-12) rotate(-3 1000 600)"/><rect width="900" height="920" fill="url(#fade)"/></svg>
